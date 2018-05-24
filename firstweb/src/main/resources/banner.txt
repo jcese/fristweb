@@ -1,0 +1,6 @@
+太极研究院
+1.5.13.RELEASE
+${spring-boot.version}
+${spring-boot.formatted-version}
+${Ansi.NAME} 
+${Ansi.EMAIL} 
